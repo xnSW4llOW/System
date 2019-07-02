@@ -1,5 +1,3 @@
-git clone https://github.com/xnSW4llOW/systemlogin
-cd systemlogin
 python2 login.py
 #!/bin/bash
 #MauNgapainGblk?
